@@ -33,4 +33,4 @@ I'm currently a junior at [Williams College](https://www.williams.edu/), studyin
 
 **Linkedin:** https://www.linkedin.com/in/catherinesyeh/
 
-Thanks for visiting my page and feel free to check out more of my projects below!
+*Thanks for visiting my page and feel free to check out more of my projects below!*
