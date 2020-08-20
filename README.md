@@ -23,7 +23,7 @@ I'm currently a junior at [Williams College](https://www.williams.edu/), studyin
 🎉 I was a [Grace Hopper Conference](https://ghc.anitab.org/) Scholar in 2019 and am attending again this year for GHC 2020!
 
 💬 I'm currently working on research at the intersection of Human-Computer Interaction and Artificial Intelligence with Professor [Iris Howley](http://www.cs.williams.edu/~iris/). 
-* Click [here](https://catherinesyeh.github.io/bkt-balloon/) to check out an interactive Bayesian Knowledge Tracing (BKT) applet I made with hot air balloons 🎈.
+* Click [here](https://catherinesyeh.github.io/bkt-balloon/) to check out an interactive applet I made about Bayesian Knowledge Tracing (BKT) that involves hot air balloons 🎈.
 
 😎 My favorite project I've made is [DigiWeave](https://github.com/catherinesyeh/digiweave/), a programming language that generates friendship bracelet patterns. Try it out with this [demo](https://catherinesyeh.github.io/digidemo/)!
 
