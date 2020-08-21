@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm currently a junior at [Williams College](https://www.williams.edu/), studying computer science + cognitive science. I also love art (drawing, painting, graphic design, photography, you name it!) and am constantly looking for creative ways to combine my passions. I'm particularly inspired by the Google Arts & Culture [experiments](https://experiments.withgoogle.com/collection/arts-culture) 🧪.
 
-<img src="https://raw.githubusercontent.com/catherinesyeh/catherinesyeh/master/laptop-avatar.png" width="290px" align="right"></img>
+<img src="https://raw.githubusercontent.com/catherinesyeh/catherinesyeh/master/laptop.png" width="290px" align="right"></img>
 ## Fun facts
 💻 I've worked at [Lumi Labs](http://www.lumilabs.com/) and [Oracle Cloud Infrastructure (OCI)](https://www.oracle.com/cloud/) as a software engineer intern.
 
