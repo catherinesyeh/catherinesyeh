@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently a junior at [Williams College](https://www.williams.edu/), studying computer science + cognitive science. I also love art (drawing, painting, graphic design, photography, you name it!), and am constantly looking for creative ways to combine my passions. I'm particularly inspired by the Google Arts & Culture [experiments](https://experiments.withgoogle.com/collection/arts-culture) 🧪.
+I'm currently a junior at [Williams College](https://www.williams.edu/), studying computer science + cognitive science. I also love art (drawing, painting, graphic design, photography, you name it!) and am constantly looking for creative ways to combine my passions. I'm particularly inspired by the Google Arts & Culture [experiments](https://experiments.withgoogle.com/collection/arts-culture) 🧪.
 
 ## Fun facts
 <img src="https://raw.githubusercontent.com/catherinesyeh/catherinesyeh/master/border.png" width="120px" align="right"></img>
