@@ -21,7 +21,7 @@ I'm currently a junior at [Williams College](https://www.williams.edu/), studyin
 ## Fun facts
 💻 I've worked at [Lumi Labs](http://www.lumilabs.com/) and [Oracle Cloud Infrastructure (OCI)](https://www.oracle.com/cloud/) as a software engineer intern.
 
-🎉 I was a [Grace Hopper Conference (GHC)](https://ghc.anitab.org/) Scholar in 2019 and am attending again this year for GHC 2020!
+🎉 I was a [Grace Hopper Conference (GHC)](https://ghc.anitab.org/) Scholar in 2019 and attended GHC again in 2020!
 
 💬 I'm currently working on research at the intersection of Human-Computer Interaction and Artificial Intelligence with Professor [Iris Howley](http://www.cs.williams.edu/~iris/). 
 * Click [here](https://catherinesyeh.github.io/bkt-balloon/) to check out an interactive applet I made about Bayesian Knowledge Tracing (BKT) that involves hot air balloons 🎈.
