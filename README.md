@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently a junior at [Williams College](https://www.williams.edu/), studying computer science + cognitive science. I also love art (drawing, painting, graphic design, photography, you name it!) and am constantly looking for creative ways to combine my passions. I'm particularly inspired by the Google Arts & Culture [experiments](https://experiments.withgoogle.com/collection/arts-culture) 🧪.
+I'm currently a junior at [Williams College](https://www.williams.edu/), studying computer science + cognitive science. I also love art (drawing, painting, graphic design, photography, you name it!) and am constantly looking for creative ways to combine my passions. I'm really interested in Human-AI Interaction, Intelligence Augmentation, AR/VR, Multimodal Systems, and Immersive Art 💖.
 
 <img src="https://raw.githubusercontent.com/catherinesyeh/catherinesyeh/master/laptop.png" width="290px" align="right"></img>
 ## Fun facts
@@ -32,6 +32,6 @@ I'm currently a junior at [Williams College](https://www.williams.edu/), studyin
 **My Porfolio:** https://catherinesyeh.github.io/ 
 * This is a website I made to share my art and programming projects using HTML, CSS, and Javascript 🎨.
 
-**Linkedin:** https://www.linkedin.com/in/catherinesyeh/
+**LinkedIn:** https://www.linkedin.com/in/catherinesyeh/
 
 *Thanks for visiting my page and feel free to check out more of my projects below!*
