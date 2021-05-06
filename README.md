@@ -21,7 +21,7 @@ Areas of Interest: *AI/ML*, *Human-AI Interaction*, *Intelligence Augmentation*,
 
 <img src="https://raw.githubusercontent.com/catherinesyeh/catherinesyeh/master/laptop.png" width="290px" align="right"></img>
 ## Fun facts
-💻 I've worked at [Lumi Labs](http://www.lumilabs.com/) and [Oracle Cloud Infrastructure (OCI)](https://www.oracle.com/cloud/) as a software engineer intern.
+💻 I'll be interning at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/) this summer and I've also worked at [Lumi Labs](http://www.lumilabs.com/) and [Oracle Cloud Infrastructure (OCI)](https://www.oracle.com/cloud/) as a software engineer intern.
 
 🎉 I was a [Grace Hopper Conference (GHC)](https://ghc.anitab.org/) Scholar in 2019 and attended GHC again in 2020!
 
