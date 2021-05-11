@@ -1,3 +1,5 @@
+![header](https://raw.githubusercontent.com/catherinesyeh/catherinesyeh/master/header.PNG)
+
 # Hi! I'm Catherine 👧🏻👋🏼✨
 
 <!--
