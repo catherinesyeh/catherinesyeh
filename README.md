@@ -1,4 +1,4 @@
-<a href="https://catherinesyeh.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/catherinesyeh/catherinesyeh/master/header.PNG" width="100%"></img></a>
+<a href="https://catherinesyeh.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/catherinesyeh/catherinesyeh/master/banner.PNG" width="100%"></img></a>
 
 # Hi! I'm Catherine 👧🏻👋🏼✨
 
