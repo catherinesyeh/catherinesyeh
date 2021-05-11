@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 I'm currently a junior at [Williams College](https://www.williams.edu/) studying computer science + cognitive science. I also love art (drawing, painting, graphic design, photography, you name it!) and am constantly looking for new ways to synergize my passions and explore the interaction between emerging technologies and creative expression 💖.
 
+<img src="https://raw.githubusercontent.com/catherinesyeh/catherinesyeh/master/flower.png" width="360px" align="right"></img>
+
 Areas of Interest: *AI/ML*, *Human-AI Interaction*, *Intelligence Augmentation*, *AR/VR*, *Multimodal Systems*, *Immersive Art*, *Intersections of Technology and Art*
 
-<img src="https://raw.githubusercontent.com/catherinesyeh/catherinesyeh/master/laptop.png" width="290px" align="right"></img>
 ## Fun facts
 💻 I'll be interning at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/) this summer and I've also worked at [Lumi Labs](http://www.lumilabs.com/) and [Oracle Cloud Infrastructure (OCI)](https://www.oracle.com/cloud/) as a software engineer intern.
 
