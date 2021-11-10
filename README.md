@@ -24,9 +24,9 @@ Areas of Interest: *AI/ML*, *Human-AI Interaction*, *Intelligence Augmentation*,
 <a href="https://catherinesyeh.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/catherinesyeh/catherinesyeh/master/girl.png" width="300px" align="right"></img></a>
 
 ## Fun facts
-💻 I'll be interning at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/) this summer and I've also worked at [Oracle Cloud Infrastructure (OCI)](https://www.oracle.com/cloud/) as a software engineer intern.
+💻 Last summer, I interned at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/), and I've also worked at [Oracle Cloud Infrastructure (OCI)](https://www.oracle.com/cloud/) as a software engineer intern.
 
-🎉 I was a [Grace Hopper Conference (GHC)](https://ghc.anitab.org/) Scholar in 2019 and attended GHC again in 2020!
+🎉 I was a [Grace Hopper Conference (GHC)](https://ghc.anitab.org/) Scholar in 2019, attended GHC again in 2020, and spoke at GHC 2021 as an undergraduate finalist in the ACM Student Research Competition!
 
 💬 I'm currently working on research at the intersection of Human-Computer Interaction and Artificial Intelligence with Professor [Iris Howley](http://www.cs.williams.edu/~iris/). 
 * Click [here](https://catherinesyeh.github.io/bkt-balloon/) to check out an interactive applet I made about Bayesian Knowledge Tracing (BKT) that involves hot air balloons 🎈.
