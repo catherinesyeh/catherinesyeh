@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an incoming computer science Ph.D. student at Harvard University. Previously, I graduated from Williams College with a B.A. in computer science + cognitive science. I also love art (drawing, painting, graphic design, photography, you name it!) and am constantly looking for interdisciplinary ways to synergize my passions and explore the interaction between emerging technologies and creative expression 💖.
+I'm a first-year computer science Ph.D. student at Harvard University. Previously, I graduated from Williams College with a B.A. in computer science + cognitive science. I also love art (drawing, painting, graphic design, photography, you name it!) and am constantly looking for interdisciplinary ways to synergize my passions and explore the interaction between emerging technologies and creative expression 💖.
 
 Areas of Interest: *AI/ML*, *Human-AI Interaction*, *Intelligence Augmentation*, *Intersections of Technology and Art*, *AR/VR*, *Multimodal Systems*
 
 <a href="https://catherinesyeh.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/catherinesyeh/catherinesyeh/master/girl.png" width="300px" align="right"></img></a>
 
 ## Fun facts
-💻 This summer, I am interning at Adobe Research in the Media Intelligence Lab. I have also interned at Microsoft Research in the Productivity & Intelligence Group.
+💻 This summer, I interned at Adobe Research in the Media Intelligence Lab. I have also interned at Microsoft Research in the Productivity & Intelligence Group.
 
 🎉 I was a Grace Hopper Conference Scholar in 2019, attended GHC again in 2020, and spoke at GHC 2021 as an undergraduate finalist in the ACM Student Research Competition!
 
