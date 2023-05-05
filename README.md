@@ -25,12 +25,10 @@ Research Interests: *Human-AI Interaction*, *Interpretability*, *Visualization*
 ## Fun facts
 💻 This summer, I will be interning at Microsoft Research. I have also interned at Adobe Research (2022) and Microsoft Research (2021).
 
-🎉 I was a Grace Hopper Conference Scholar in 2019, attended GHC again in 2020, and spoke at GHC 2021 as an undergraduate finalist in the ACM Student Research Competition!
-
 💬 My undergraduate research focused on AI explainability for learning analytics systems. 
 * Check out an interactive applet I made about Bayesian Knowledge Tracing (BKT) that involves [American Sign Language](https://catherinesyeh.github.io/bkt-asl/) or [hot air balloons](https://catherinesyeh.github.io/bkt-balloon/) 🎈.
 
-😎 One of my favorite projects I've made is [DigiWeave](https://github.com/catherinesyeh/digiweave/), a programming language that generates friendship bracelet patterns. Try it out with this [demo](https://catherinesyeh.github.io/digidemo/)!
+🎉 One of my favorite projects I've made is [DigiWeave](https://github.com/catherinesyeh/digiweave/), a programming language that generates friendship bracelet patterns. Try it out with this [demo](https://catherinesyeh.github.io/digidemo/)!
 
 ## Find me around the web 
 **Personal Website:** https://catherinesyeh.github.io/
