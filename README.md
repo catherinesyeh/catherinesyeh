@@ -4,8 +4,8 @@ I'm a first-year computer science Ph.D. student at Harvard University in the [In
 Research Interests: *Human-AI Interaction*, *Interpretability*, *Visualization*
 
 ## Find me around the web 
-**Personal Website:** https://catherinesyeh.github.io/
+💻 **Personal Website:** https://catherinesyeh.github.io/
 
-**LinkedIn:** https://www.linkedin.com/in/catherinesyeh/
+📝 **LinkedIn:** https://www.linkedin.com/in/catherinesyeh/
 
 *Thanks for visiting my page and feel free to check out some of my projects below!*
